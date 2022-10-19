@@ -1,0 +1,12 @@
+// This code prints Hello World ! as the output
+package com.capgemini.javademos;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World!");
+
+	}
+
+}
